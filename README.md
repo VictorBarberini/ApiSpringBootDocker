@@ -18,10 +18,11 @@ $ cd ApiSpringBootDocker
 
 ## Rodando a API
 
-Para rodar a API, entre na pasta do projeto pelo terminal e use o comando ```bash docker-compose up``` para subir os containers
+Para rodar a API, entre na pasta do projeto pelo terminal e use o comando ```docker-compose up``` para subir os containers
 
 A conexão com o MySQL utiliza a porta 3306
-A aplicação está utiliza a porta 8080
+
+A aplicação utiliza a porta 8080
 
 ---
 
